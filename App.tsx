@@ -14,7 +14,7 @@ function App() {
             <h1>Fotoflix</h1>
           </div>
           <div className="search_input">
-            <input type="text" placeholder='Search for Photos..' />
+            <input type="search" placeholder='Search for Photos..' />
           </div>
           <div className="navbar_links">
             <Link to="/">HOME</Link>
