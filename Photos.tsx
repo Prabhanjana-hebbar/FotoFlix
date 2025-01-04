@@ -19,10 +19,6 @@ const Photos = () => {
             }
         };
         likes: number;
-        // photoId : any;
-        // favPhoto:any;
-        // prevFavourites:any;
-        // photos:any;
         
         
     }
